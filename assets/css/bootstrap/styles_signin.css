@@ -1,0 +1,67 @@
+/*----------------------------
+	Inputs, Buttons & Links
+-----------------------------*/
+.rfloat {
+	float:right;
+}
+.login_header {
+width:100%;
+height: 71px;
+background: #3b5998;
+border-bottom: 1px solid #e5e5e5;
+overflow: hidden;
+}
+.loggedout_menubar {
+	margin: 0 auto;
+	padding-top: 3px;
+	width: 980px;
+}
+input[type=text],input[type=password] {
+border-radius:0px;
+height: 30px;
+border: 1px;
+padding-left: 10px;
+padding-right: 1px;
+margin: 1px;
+width: 100%;
+margin-top: 10px;
+font-size: 16px;
+}
+.uiButtonText, .uiButton input {
+background: none;
+border: 0;
+color: white;
+cursor: pointer;
+display: inline-block;
+font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+font-size: 11px;
+font-weight: bold;
+line-height: 13px;
+margin: 0;
+padding: 1px 0 2px;
+white-space: nowrap;
+}
+
+.uiButtonConfirm {
+	background-color: #5b74a8;
+	border-color: #29447e #29447e #1a356e;
+	padding:4px;
+}
+.clearfix {
+zoom: 1;
+}
+label {
+	color:white;
+}
+.feature_text {
+font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+font-size: 13px;
+color: #434343;
+}
+.feature_title {
+font-size: 20px;
+font-weight: lighter;
+padding: 0px;
+margin: 0px;
+line-height: 30px;
+}

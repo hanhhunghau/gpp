@@ -1,0 +1,42 @@
+.acInput {
+		
+}
+.acResults {
+        padding: 0px;
+        background-color: #FFFF99;
+        width: 250px;
+		float:left;
+}
+
+.acResults ul {
+        width: 250px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+		 background-color: #EFEFEF;
+}
+
+.acResults li {
+        margin: 0px;
+        padding: 2px 5px;
+        cursor: pointer;
+        display: block;
+        width: 250px;
+		float:left;
+        font: menu;
+        font-size: 12px;
+		background-color: #FFFF99;
+}
+
+.acLoading {
+        background : url('indicator.gif') right center no-repeat;
+}
+
+li.acSelect {
+        color: #000000;
+		font-weight:bold;
+		background-color:#FFFFFF;
+		border:1px solid #93C5F7;
+		border-left:0px;
+		border-right:0px;
+}

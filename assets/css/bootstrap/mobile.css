@@ -1,0 +1,57 @@
+/* 
+    Document   : style
+    Created on : Sep 16, 2013, 8:50:23 PM
+    Author     : membell
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.ui-btn.ui-shadow.ui-btn-inline.ui-icon-delete.ui-btn-icon-left.ui-btn-b.ui-btn-icon-notext {
+background: #C73434;
+border-color: #AD0E0E;
+color: #fff;
+text-shadow: 0 1px 0 #111;
+-webkit-transition: all 0.2s ease;
+-moz-transition: all 0.2s ease;
+-ms-transition: all 0.2s ease;
+-o-transition: all 0.2s ease;
+transition: all 0.2s ease;
+}
+
+
+.ui-btn.ui-icon-plus.ui-btn-icon-left.ui-shadow.ui-corner-all ,.ui-btn.ui-icon-minus.ui-btn-icon-left.ui-shadow.ui-corner-all{
+padding: 18px;
+}
+
+.button-wrap {
+    margin-left: 5px;
+    margin-right: 5px; 
+}
+
+#listtable div.content ul li a.ui-btn-icon-left:after{
+	background-color: rgba(51, 231, 73, 0.87);
+}
+
+div.footer div div a.ui-btn.ui-shadow.ui-corner-all {
+width: 100%;
+}
+
+a#btconfirm ,a#startorder{
+	background-color: rgba(51, 231, 73, 0.87);
+}
+
+.ui-icon-carat-r a img, .ui-content div div#foot ul li a img,.ui-content div div#drink ul li a img,.ui-content div div#wine ul li a img{
+    height: 80pc;
+    width: 80px;
+}
+
+
+#choose > form {
+width: 395px;
+}
+div.ghilai div{
+    width: 88%;
+}

@@ -1,0 +1,27 @@
+.page-ajax-bound
+{
+	margin-top:20px;
+	margin-bottom:10px;
+}
+.page-ajax-label
+{
+	font-weight:bold;
+}
+.page-ajax-preview-img,
+.page-ajax-next-img
+{
+	cursor:pointer;
+	padding-left:8px;
+}
+.page-ajax-preview-img{}
+.page-ajax-next-img{}
+.page-ajax-active,
+.page-ajax-normal
+{
+	padding-left:8px;
+	cursor:pointer;
+}
+.page-ajax-active
+{
+	font-weight:bold;
+}

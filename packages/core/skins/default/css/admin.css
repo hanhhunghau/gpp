@@ -1,0 +1,173 @@
+#util_options a
+{
+	font-size:12px;
+	color:#000000;
+}
+#util_options td
+{
+	color:#000000;
+	font-size:12px;	
+}
+#combine_all_id
+{
+	color:#000000;
+	width:100%;
+	background-color:#EFEFEF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#combine_all_id input
+{
+	height:25px;
+	line-height:20px;
+	font-size:12px;
+}
+.list_table
+{
+	font-size:12px;
+}
+#combine_all_list_region table
+{
+	font-size:12px;
+}
+#combine_all_list_region a
+{
+	color:#333333;
+	font-size:12px;
+}
+#combine_all_list_region td
+{
+	color:#000000;
+	font-size:12px;
+}
+#combine_all_list_region
+{
+	border:1px solid #404040;
+	background-color:#CCCCCC;	
+	margin-right:5px;
+	margin-top:5px;	
+	padding:5px;
+	width:450px;
+	height:450px;
+	overflow:auto;
+}
+.required
+{
+	color:#FF0000;
+}
+.form_detail_label
+{
+	border-bottom:1px dotted #AAD5FF;
+	width:100px;
+	white-space:nowrap;
+}
+.form_detail_value
+{
+	border-bottom:1px dotted #AAD5FF;
+}
+.form_bound
+{
+	padding:5px;
+}
+.form_content
+{
+	background-color:#ffffff;
+}
+.form_title
+{
+	width:100%;
+	font-size:medium;
+	font-weight:bold;
+	white-space:nowrap;
+	font-size:16px;
+	color:#000000;
+	padding-left:5px;
+	height:30px;
+}
+.form_title img
+{
+	margin-right:11px;
+}
+.form_title_button
+{
+	padding-right:11px;
+	text-align:center;
+	vertical-align:middle;
+	white-space:nowrap;
+	color:#000000;
+}
+.form_title_button img{
+	width:24px;
+	height:24px;
+}
+.form_input
+{
+	
+}
+.form_input_label
+{
+	display:block;
+	padding-top:5px;
+	padding-bottom:2px;
+	font-size:12px;
+}
+.form_related_fields_title
+{
+}
+.form_related_fields_area
+{
+}
+.form_related_field
+{
+}
+.form_multiple_item_area
+{
+}
+.form_multiple_item_label
+{
+	white-space:nowrap;
+	text-align:left;
+	vertical-align:top;
+	font-weight:bold;
+}
+.form_multiple_item_input
+{
+	text-align:left;
+	vertical-align:top;
+}
+.form_input_label_code
+{
+	color:#FF0000;
+	font-size:12px;
+}
+#title_region
+{
+	background-color:#DDDDDD;
+	color:#000000;
+	border:1px solid #CCCCCC;
+}
+#title_region a
+{
+	color:#000000;
+}
+.chan_tr
+{
+	background-color:#EFEFEF;
+}
+.le_tr
+{
+	background-color:#CCCCCC;
+}
+tr.list_header
+{
+	font-weight:bold;
+	background-color:#999999;
+}
+.category_title
+{
+	font-weight:bold;
+	height:20px;
+	background-color:#333333;
+	color:#FFFFFF;
+	padding-left:5px;
+}

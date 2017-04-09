@@ -1,0 +1,22 @@
+#footer_toolbar{
+	width:980px;
+	height:30px;
+	line-height:25px;
+	position:fixed;
+	background:url(../images/bg_field.png);
+	text-align:left;
+	bottom: 0px;
+}
+#footer_toolbar a{
+	color:#666666;
+}
+#footer_toolbar ul li{
+	list-style:none;
+	float:left;
+	border-right:1px solid #FFFFFF;	
+	padding: 2px 10px 1px 10px;
+	
+}
+ #footer_toolbar ul li img{
+	padding-top:2px;	
+}

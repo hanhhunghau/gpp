@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:0px;
+	margin:0px;
+	font-family:Tahoma,Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+.install-info{
+	padding:15px;
+}
+
+.install-bound{
+	padding:20px;	
+}
+.install-title{
+	font-size:20px;
+	font-weight:bold;
+}
+.install-title img{
+	float:left;
+	margin-right:5px;
+	margin-bottom:5px;
+	border:0px;
+}
+.install-form-bound{
+
+}
+.install-field{
+	clear:both;
+	margin-top:5px;
+	float:left;
+}
+.install-field label{
+	cursor:pointer;
+}
+.install-field label.field{
+	display:block;
+	float:left;
+	width:100px;
+	text-align:right;
+	margin-right:5px;
+}
+.install-field-info{
+	float:left;
+	#float:none;
+	clear:both;
+	padding-left:105px;
+	color:#0000FF;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+.install-field label.error{
+	color:#FF0000;
+	margin-left:5px;
+	display:block;
+	float:left;
+}
+.install-field em{
+	color:#FF0000;
+}
+.install-field input{
+	width:300px;
+	float:left;
+}
+.install-button{
+	clear:both;
+	float:left;
+	margin-top:5px;
+	padding-left:105px;
+}
+.notice{
+	height:18px;
+	color:#FF0000;
+}
